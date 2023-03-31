@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-german
 Version:	35665
-Release:	1
+Release:	2
 Summary:	German language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-german
